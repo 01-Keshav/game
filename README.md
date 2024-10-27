@@ -1,10 +1,11 @@
+#Dinosaur Game
 Inspired by the classic Chrome browser dinosaur game, this project involves a dinosaur character that jumps over obstacles to accumulate points.
 
 ![Screenshot](utilities.webp)
 
 Features
 Endless Runner: The dinosaur runs continuously, and the goal is to avoid obstacles as long as possible.
-Score Tracking: Tracks the player's score based on how long they survive.
+Score Tracking: Tracks the player's score based on how long they survive.#
 Difficulty Scaling: (Option to add) Increase game speed or frequency of obstacles as the score increases.
 Game Over Screen: Displays a message and prompts the player to restart after collision with an obstacle.
 Gameplay
