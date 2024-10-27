@@ -1,4 +1,5 @@
 #Dinosaur Game
+<Br>
 Inspired by the classic Chrome browser dinosaur game, this project involves a dinosaur character that jumps over obstacles to accumulate points.
 
 ![Screenshot](utilities.webp)
