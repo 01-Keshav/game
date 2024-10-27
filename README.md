@@ -1,6 +1,6 @@
 Inspired by the classic Chrome browser dinosaur game, this project involves a dinosaur character that jumps over obstacles to accumulate points.
 
-![Screenshot](utilities.webp
+![Screenshot](utilities.webp)
 
 Features
 Endless Runner: The dinosaur runs continuously, and the goal is to avoid obstacles as long as possible.
